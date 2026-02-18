@@ -1,0 +1,9 @@
+{
+	"name": "CovProjectADF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39a06ab6-309f-42c0-9506-5a5cad32a7c5",
+		"tenantId": "c65b0911-b87d-48eb-8e69-b0fe84e8c59f"
+	}
+}
